@@ -11,9 +11,12 @@
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
     <plugin name="cordova-universal-links-plugin" source="npm" />
-	<universal-links>
-	  <host name="booons.com" />
-	</universal-links>
+    <universal-links>
+      <host name="booons.com">
+        <path url="/some/path/*" />
+      </host>
+      <host name="atkoflowers.com" />
+    </universal-links>
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1" />
     <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1" />
     <plugin name="cordova-plugin-media-capture" source="npm" spec="~1.2.0" />
