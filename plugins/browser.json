@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        },
+        "cordova-universal-links-plugin": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "app.frankbenus.helloworld"
+        }
+    }
+}
